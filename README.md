@@ -1,6 +1,6 @@
 # Funtion-in-C
 Here i give the example of function in C .
-
+```c
 #include<stdio.h>
 // function prototype
 void printhello();
